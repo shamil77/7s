@@ -1,0 +1,35 @@
+
+
+
+.top_line {
+	background: #0000ff; 
+	text-align: right;
+	padding: 5px;
+	font-family: arial;
+	
+}
+.top_line a{
+	color: #fff;
+font-family:arial;
+font-size: 16px;
+	text-decoration: none;
+}
+.header  {
+	list-style-type: none;
+	display: list-item;
+	margin-left:   100px;
+
+	font-weight: bold;
+
+
+
+}
+.logo{
+	font-size: 30px;
+}
+.log{
+	font-size: 20px;
+}
+.kar{
+	margin:right;
+}
